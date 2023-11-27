@@ -1,12 +1,29 @@
-## Hi there 👋
+# SportEase UFPR
+> <Breve descriçãop do que é o projeto>
 
-<!--
 
-**Here are some ideas to get you started:**
+## 💻 Pré-requisitos
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+- Você deve ter instalado as seguintes linguagens e frameworks:
+	1.  Angular
+	2. Java
+	3. React Native
+	4. MySQL
+
+## 🚀 Instalando o SportEase UFPR
+
+Para instalar o SportEase UFPR, siga estas etapas:
+
+```
+<passo a passo de comandos>
+```
+
+## ☕ Usando SportEase UFPR
+
+Para usar <nome_do_projeto>, siga estas etapas:
+
+```
+<comandos para usar>
+```
