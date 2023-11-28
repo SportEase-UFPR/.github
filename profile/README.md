@@ -14,8 +14,9 @@ Caso deseje, nosso sistema também está hospedado para utilização sem necessi
 |Website administrador | [site](https://sportease-manager.netlify.app/login) |
 
 
+## Acessar a versão local
 
-## 💻 Pré-requisitos
+### 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
@@ -30,7 +31,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 	8. [Expo CLI](https://www.npmjs.com/package/expo-cli)
 	9. [Git](https://git-scm.com/downloads)
 
-## 🚀 Instalando e usando o SportEase UFPR
+### 🚀 Instalando e usando o SportEase UFPR
 
 Para instalar o SportEase UFPR, siga estas etapas:
 
@@ -70,7 +71,7 @@ npm install
 ng s -o
 ```
 
-## Utilizando localmente pela primeira vez
+### Utilizando localmente pela primeira vez
 
  - Ao iniciar a aplicação pela primeira vez, um administrador é criado automaticamente. Os dados de login são: 
 	 - e-mail: adm@gmail.com
